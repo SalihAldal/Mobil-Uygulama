@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Minimal Beyaz Sneaker",
+      "description": "Gunluk kullanim icin hafif, rahat ve sade tasarim.",
+      "price": 1299.0,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "category": "Ayakkabi"
+    },
+    {
+      "id": 2,
+      "title": "Mat Siyah Kulaklik",
+      "description": "Yuksek bass ve net ses deneyimi icin ergonomik kulaklik.",
+      "price": 899.0,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "category": "Elektronik"
+    },
+    {
+      "id": 3,
+      "title": "Grid Tarzli Sirt Canta",
+      "description": "Gun boyu konfor saglayan cok bolmeli sirt cantasi.",
+      "price": 749.0,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+      "category": "Aksesuar"
+    },
+    {
+      "id": 4,
+      "title": "Minimal Akilli Saat",
+      "description": "Kalp ritmi, bildirim ve spor takibi icin idealdir.",
+      "price": 1599.0,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "category": "Elektronik"
+    },
+    {
+      "id": 5,
+      "title": "Yumusak Dokulu Hoodie",
+      "description": "Serin havalarda sicak tutan modern kesim hoodie.",
+      "price": 599.0,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+      "category": "Giyim"
+    },
+    {
+      "id": 6,
+      "title": "Krem Seramik Kupa",
+      "description": "Ofis ve ev icin sade, kaliteli seramik kupa.",
+      "price": 159.0,
+      "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&w=800&q=80",
+      "category": "Ev"
+    }
+  ]
+}
